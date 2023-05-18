@@ -1,5 +1,6 @@
 # Data Cleaning and Pivot Table in Excel
 
+/* The dataset used in this project comes from the following source: https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr under a Public Domain license. *\
 
 **Part 1: Cleaning the data**
 
@@ -31,3 +32,6 @@ SUM, AVERAGE, MIN, MAX, and COUNT
 2.In "pivot2", I added the Equipment Class field below the Department field so that the different vehicle types appear under each department with their respective counts.
 
 3. In "pivot3", I added the Equipment Class field above the Department field so that the different vehicle types appear first, with the different departments listed underneath each vehicle type with their respective counts.
+
+
+
