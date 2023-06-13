@@ -1,6 +1,9 @@
 # Data Cleaning and Pivot Table in Excel
 
-/* The dataset used in this project comes from the following source: https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr under a Public Domain license. *\
+/*
+The dataset used in this project comes from the following source:
+https://data.montgomerycountymd.gov/Government/Fleet-Equipment-Inventory/93vc-wpdr under a Public Domain license. 
+*\
 
 **Part 1: Cleaning the data**
 
